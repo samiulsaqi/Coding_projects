@@ -12,6 +12,7 @@ I am planning on doing the following projects / building the following apps on m
 5. Web Crawler
 6. Stock Analyzer
 7. Twitter Crawler
+8. Hangman
 
 
 I will add more projects as I learn of them. Will also add completed projects as they are done.
